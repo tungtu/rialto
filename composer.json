@@ -1,5 +1,5 @@
 {
-    "name": "nesk/rialto",
+    "name": "tungtu/rialto",
     "description": "Manage Node resources from PHP",
     "keywords": [
         "php",
@@ -13,8 +13,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Johann Pardanaud",
-            "email": "pardanaud.j@gmail.com"
+            "name": "Tung Tu",
+            "email": "tuthanhtungit@gmail.com"
         }
     ],
     "require": {
