@@ -1,6 +1,6 @@
 {
   "name": "@tungtu/rialto",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Manage Node resources from PHP",
   "keywords": [
     "php",
@@ -10,17 +10,28 @@
     "bridge",
     "socket"
   ],
-  "author": {
-    "name": "Tung Tu",
-    "email": "tuthanhtungit@gmail.com"
-  },
+  "author": "Tung Tu <tuthanhtungit@gmail.com>",
   "license": "MIT",
-  "repository": "github:tungtu/rialto",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungtu/rialto.git"
+  },
   "main": "src/node-process",
   "engines": {
     "node": ">=8.0.0"
   },
   "dependencies": {
     "lodash": "^4.17.10"
+  },
+  "bugs": {
+    "url": "https://github.com/tungtu/rialto/issues"
+  },
+  "homepage": "https://github.com/tungtu/rialto#readme",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
