@@ -18,7 +18,7 @@ Install it in your project:
 
 ```shell
 composer require tungtu/rialto
-npm install @nesk/rialto
+npm install @tungtu/rialto
 ```
 
 ## Usage
